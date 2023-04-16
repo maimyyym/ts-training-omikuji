@@ -1,0 +1,1 @@
+# TS_omikuji_training
