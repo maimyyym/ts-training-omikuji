@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.omikuji_box {
+    background-color: springgreen;
+    padding: 40px;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.omikuji_button {
+    position: absolute;
+    top: 20px;
+}
+
+ .omikuji_result {
+     font-size: 40px;
+ }
